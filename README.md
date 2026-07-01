@@ -3,4 +3,9 @@
 2. Các tài khoản test có sẵn trong hệ thống:
    - Admin: admin@chungcu.vn
    - Manager: manager@chungcu.vn
+   - Kĩ thuật: kt01@chungcu.vn
+   - Lễ tân: lt01@chungcu.vn
    - Mật khẩu mặc định cho TẤT CẢ tài khoản mẫu: 123456
+
+
+
